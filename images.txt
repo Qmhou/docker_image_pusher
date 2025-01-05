@@ -2,6 +2,7 @@ mariadb:10
 redis:7.2-alpine
 librenms/librenms:latest
 crazymax/msmtpd:latest
+
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
