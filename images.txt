@@ -4,6 +4,8 @@ librenms/librenms:latest
 crazymax/msmtpd:latest
 louislam/uptime-kuma:1
 zeek/zeek:latest
+prom/prometheus
+grafana/grafana-enterprise
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
