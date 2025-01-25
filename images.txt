@@ -14,8 +14,8 @@ nginx
 wordpress
 haproxy
 #elasticsearch
-kibana
-logstash
+#kibana
+#logstash
 
 
 #支持私库
