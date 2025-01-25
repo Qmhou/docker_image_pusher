@@ -13,7 +13,7 @@ vaultwarden/server:latest
 nginx
 wordpress
 haproxy
-elasticsearch
+#elasticsearch
 kibana
 logstash
 
