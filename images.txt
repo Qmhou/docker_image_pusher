@@ -17,6 +17,32 @@ haproxy
 #kibana
 #logstash
 
+#curl -Ls "https://sbom.k8s.io/$(curl -Ls https://dl.k8s.io/release/stable.txt)/release" | grep "SPDXID: SPDXRef-Package-registry.k8s.io" |  grep -v sha256 | cut -d- -f3- | sed 's/-/\//' | sed 's/-v1/:v1/'
+registry.k8s.io/conformance-arm64:v1.32.1
+registry.k8s.io/kube-proxy-arm64:v1.32.1
+registry.k8s.io/kube-controller-manager-s390x:v1.32.1
+registry.k8s.io/conformance-amd64:v1.32.1
+registry.k8s.io/kubectl-amd64:v1.32.1
+registry.k8s.io/kube-apiserver-arm64:v1.32.1
+registry.k8s.io/kube-controller-manager-arm64:v1.32.1
+registry.k8s.io/conformance-ppc64le:v1.32.1
+registry.k8s.io/kube-scheduler-ppc64le:v1.32.1
+registry.k8s.io/kube-scheduler-s390x:v1.32.1
+registry.k8s.io/kube-apiserver-amd64:v1.32.1
+registry.k8s.io/kube-proxy-amd64:v1.32.1
+registry.k8s.io/kube-controller-manager-ppc64le:v1.32.1
+registry.k8s.io/kube-apiserver-s390x:v1.32.1
+registry.k8s.io/kube-scheduler-amd64:v1.32.1
+registry.k8s.io/kube-scheduler-arm64:v1.32.1
+registry.k8s.io/kube-apiserver-ppc64le:v1.32.1
+registry.k8s.io/kube-proxy-ppc64le:v1.32.1
+registry.k8s.io/kubectl-ppc64le:v1.32.1
+registry.k8s.io/conformance-s390x:v1.32.1
+registry.k8s.io/kube-proxy-s390x:v1.32.1
+registry.k8s.io/kubectl-s390x:v1.32.1
+registry.k8s.io/kube-controller-manager-amd64:v1.32.1
+registry.k8s.io/kubectl-arm64:v1.32.1
+
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
