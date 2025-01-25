@@ -7,6 +7,7 @@ zeek/zeek:latest
 prom/prometheus
 grafana/grafana-enterprise
 ghcr.io/librespeed/speedtest:latest
+docker.n8n.io/n8nio/n8n
 
 vaultwarden/server:latest
 nginx
