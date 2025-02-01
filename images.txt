@@ -8,6 +8,7 @@ prom/prometheus
 grafana/grafana-enterprise
 ghcr.io/librespeed/speedtest:latest
 docker.n8n.io/n8nio/n8n
+ghcr.io/open-webui/open-webui:main
 
 vaultwarden/server:latest
 nginx
