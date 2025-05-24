@@ -10,6 +10,11 @@ ghcr.io/librespeed/speedtest:latest
 docker.n8n.io/n8nio/n8n
 ghcr.io/open-webui/open-webui:main
 
+nocodb 
+baserow
+postgres
+postgres:16.6
+
 rustdesk/rustdesk-server
 
 ghcr.io/songquanpeng/one-api
