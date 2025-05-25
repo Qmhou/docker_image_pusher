@@ -1,5 +1,4 @@
 postgres
 postgres:16.6
-nocodb 
-baserow
+nocodb/nocodb:latest
 
