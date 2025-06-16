@@ -1,2 +1,2 @@
-nocodb/nocodb:latest
+vaultwarden/server:latest
 
