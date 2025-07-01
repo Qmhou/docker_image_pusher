@@ -1,1 +1,2 @@
 librenms/librenms:latest
+lscr.io/linuxserver/bookstack:latest
