@@ -1,2 +1,3 @@
 librenms/librenms:latest
-lscr.io/linuxserver/bookstack:latest
+ghcr.io/requarks/wiki:2
+postgres:15-alpine
