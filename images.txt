@@ -1,1 +1,2 @@
-ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:commit-99f597bae53a7cb61dce8b79f3da523e418f8742-rocm
+
