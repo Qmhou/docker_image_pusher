@@ -1,1 +1,1 @@
-ghcr.io/gethomepage/homepage:latest
+lissy93/dashy
