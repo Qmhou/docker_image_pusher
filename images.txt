@@ -1,1 +1,2 @@
-nocodb/nocodb:latest
+index.docker.io/appsmith/appsmith-ee
+postgres:17
