@@ -1,3 +1,1 @@
-ghcr.io/siriusscan/sirius-ui
-ghcr.io/siriusscan/sirius-api
-ghcr.io/siriusscan/sirius-engine
+mikolatero/vlmcsd
